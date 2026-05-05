@@ -5,5 +5,5 @@
     "moduleResolution": "Bundler",
     "strict": true
   },
-  "include": ["problems/**/*.ts", "**/*.test.ts"]
+  "include": ["patterns/**/*.ts", "**/*.test.ts"]
 }

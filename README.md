@@ -13,3 +13,11 @@ The goal of this repository is not to accumulate solved problems. The goal is to
 3. Write tests covering: a normal case, an edge case, an empty case, and at least one failure-prone case.
 4. Run `yarn run test:watch` until green.
 5. Fill in the solution header — including the mistake made and the complexity analysis.
+
+# NeetCode 150
+
+## Arrays and Hashing
+
+- [ ] Two Sum
+- [ ] Valid Anagram
+- [ ] Contains Duplicate
