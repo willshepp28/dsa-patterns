@@ -5,4 +5,8 @@ describe("twoSum", () => {
   it("returns indices for a basic pair", () => {
     expect(twoSum([1, 4, 5, 6], 10)).toEqual([1, 3]);
   });
+  it("returns indices for negative pairs", () => {
+
+  })
+  
 });
